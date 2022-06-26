@@ -29,7 +29,9 @@
 ### :woman_technologist: About Me :
 - :telescope: I’m Studying as a Data & AI .
 
-- 🧠 I'm  a memory coach ,i help people to Increase their memory with easy and fun techniques.
+- 🧠 I'm  a memory coach ( 3rd place in the world memory championships )
+
+- :zap: I help people to Increase their memory with easy and fun techniques.
 
 - :seedling: Exploring Technical Content Writing.
 
